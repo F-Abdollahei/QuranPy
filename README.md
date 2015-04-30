@@ -1,0 +1,2 @@
+# QuranPy
+Quranic OpenSource Projects
